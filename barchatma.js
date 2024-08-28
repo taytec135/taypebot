@@ -69,7 +69,7 @@ function criarBarra(var_nome, var_avatar) {
     link.id   = cssId;
     link.rel  = 'stylesheet';
     link.type = 'text/css';
-    link.href = 'https://taytec135.github.io/taypebot/stylebot.css';
+    link.href = 'https://taytec135.github.io/taypebot/stylebotma.css';
     link.media = 'all';
     head.appendChild(link);
   }
